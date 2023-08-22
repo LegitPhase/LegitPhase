@@ -1,3 +1,5 @@
+Well uhm yeah hi
+
 - 👋 Hi, I’m @LegitPhase
 - 👀 I’m interested in minecraft coding / java / python :)
 - 🌱 I’m currently learning java but its boring asf and bugging
