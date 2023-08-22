@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LegitPhase
 - 👀 I’m interested in minecraft coding / java / python :)
 - 🌱 I’m currently learning java but its boring asf and bugging
-- 📫 Reach me on discord ! GetRektNerds#0234
+- 📫 Reach me on discord ! GetRektNerds (#0234)
 
 I make minecraft hacked clients ! Make sure to look at my yt ( LegitPhase )
 
