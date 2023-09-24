@@ -8,7 +8,11 @@
 - Make something other than minecraft hacks 😒
 - Most of my projects are privated. 🔒
 
-- @getrektnerds on dc 🫠
+## Want to contact me ? ok ig 🥱
+
+- @getrektnerds on dc 🫠 just message me on there i might respond
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegitPhase&show_icons=true&theme=dracula)
 
