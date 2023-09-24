@@ -2,13 +2,13 @@
 
 ## Current Project
 
-- Maybe have a life
-- Learn something other than java & python
-- Learn OpenGL
-- Make something other than minecraft hacks
-- Most of my projects are privated.
+- Maybe have a life 😀
+- Learn something other than java ☕ & python 🐍
+- Learn OpenGL 😍
+- Make something other than minecraft hacks 😒
+- Most of my projects are privated. 🔒
 
-- @getrektnerds on dc.
+- @getrektnerds on dc 🫠
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegitPhase&show_icons=true&theme=dracula)
 
