@@ -1,4 +1,11 @@
-Well uhm yeah hi
+# rdm person who does some code
+
+## Current Project
+
+- Maybe have a life
+- Learn something other than java & python
+- Learn OpenGL
+- Make something other than minecraft hacks
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegitPhase&show_icons=true&theme=dracula)
