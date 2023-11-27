@@ -5,7 +5,6 @@
 - Maybe have a life 😀
 - Learn something other than java ☕ & python 🐍
 - Learn OpenGL 😍
-- Make something other than minecraft hacks 😒
 - Most of my projects are privated. 🔒
 
 ## Want to contact me ? ok ig 🥱
