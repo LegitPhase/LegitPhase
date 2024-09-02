@@ -1,4 +1,4 @@
-```
+```java
 private class LegitPhase extends Human{
     private LegitPhase(){
         this.projects = Arrays.asList("Minecraft Utility Modifications", "Minecraft Anti-Cheat Plugins");
