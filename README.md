@@ -7,7 +7,7 @@ private class LegitPhase extends Human{
         this.info = "Most of my projects are private <3";
     }
     public void contactMe(){
-        String discord = "getrektnerds";
+        String[] discord = new String[]{"getrektnerds", "pskmine"};
         String telegram = "https://t.me/rqfss";
     }
 }
